@@ -33,16 +33,7 @@
     <string name="time_set">Fijar tiempo</string>
     <string-array name="distancia_array">
         <item>Seleccione la distancia</item>
-        <item>15 Metros</item>
-        <item>25 Metros</item>
-        <item>50 Metros</item>
-        <item>60 Metros</item>
-        <item>75 Metros</item>
-        <item>85 Metros</item>
         <item>100 Metros</item>
-        <item>125 Metros</item>
-        <item>150 Metros</item>
-        <item>175 Metros</item>
         <item>200 Metros</item>
     </string-array>
     <string-array name="estilo_array">
