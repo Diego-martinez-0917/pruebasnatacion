@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404646174868",
+    "firebase_url": "https://pruebasnatacion-c32b2.firebaseio.com",
+    "project_id": "pruebasnatacion-c32b2",
+    "storage_bucket": "pruebasnatacion-c32b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404646174868:android:97d185e0eab0475c",
+        "android_client_info": {
+          "package_name": "com.example.drica.pruebasnatacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404646174868-4oubco4if31dtt1t12a4k6glenugsdn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drica.pruebasnatacion",
+            "certificate_hash": "f3dabc29cc350b7d53b01836ce48a4504c3e489d"
+          }
+        },
+        {
+          "client_id": "404646174868-pb0gp59pjnhop9pf8opovrvka47g7dke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmM8kSV_Qh-rh4SknzwGauDO3CH688FU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404646174868-pb0gp59pjnhop9pf8opovrvka47g7dke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

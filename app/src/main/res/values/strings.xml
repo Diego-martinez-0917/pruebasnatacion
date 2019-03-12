@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Pruebas natacion</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="error_invalid_email">Este email es invalido</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="No_tienes_cuenta_text">"¿No tienes cuenta?"</string>
+    <string name="registrarse_text">"Registrarse aqui"</string>
+    <string name="name_text">"Nombre"</string>
+    <string name="descrition_image_login">icono de usuario</string>
+    <string name="lastname_text">Apellido</string>
+    <string name="registry_text">Registrar</string>
+    <string name="title_activity_main">Ritmos de Prueba</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="time">Tiempo</string>
+    <string name="txt_buttom_iniciar">Iniciar prueba</string>
+    <string name="distancia">Distancia</string>
+    <string name="style">Estilo</string>
+    <string name="TitleTableTiempo">Tiempo</string>
+    <string name="TitleTableMarca">Marca</string>
+    <string name="time_set">Fijar tiempo</string>
+    <string-array name="distancia_array">
+        <item>Seleccione la distancia</item>
+        <item>15 Metros</item>
+        <item>25 Metros</item>
+        <item>50 Metros</item>
+        <item>60 Metros</item>
+        <item>75 Metros</item>
+        <item>85 Metros</item>
+        <item>100 Metros</item>
+        <item>125 Metros</item>
+        <item>150 Metros</item>
+        <item>175 Metros</item>
+        <item>200 Metros</item>
+    </string-array>
+    <string-array name="estilo_array">
+        <item>Seleccione un estilo</item>
+        <item>Libre</item>
+        <item>Espalda</item>
+        <item>Mariposa</item>
+        <item>Braza</item>
+    </string-array>
+
+</resources>
